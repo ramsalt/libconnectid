@@ -1,0 +1,13 @@
+{
+    "name": "ramsalt/libconnectid",
+    "description": "Library used to interact with ConnectID (by MediaConnect)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marlon (esolitos)",
+            "email": "esolitos@gmail.com"
+        }
+    ],
+    "require": {}
+}
